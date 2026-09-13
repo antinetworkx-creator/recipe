@@ -1,0 +1,314 @@
+[
+  {
+    "name": "Orange Smoothie",
+    "ingredients": [
+      { "name": "pomarańcza", "substitute": ["mandarynka"] },
+      { "name": "mleko" },
+      { "name": "cukier" }
+    ],
+    "url": "https://some-recipe-site.com/orange-smoothie",
+    "comment": "Great for breakfast",
+    "tags": ["drink", "breakfast", "quick"]
+  },
+  {
+    "name": "Gnocchi z kurczakiem w sosie pomidorowym",
+    "ingredients": [
+      { "name": "filet z piersi kurczaka" },
+      { "name": "olej" },
+      { "name": "musztarda" },
+      { "name": "papryka słodka mielona" },
+      { "name": "marchewka" },
+      { "name": "cebula" },
+      { "name": "czosnek" },
+      { "name": "pomidor", "substitute": ["pomidor krojony z puszki"] },
+      { "name": "koncentrat pomidorowy" },
+      { "name": "oregano suszone" },
+      { "name": "gnocchi" }
+    ],
+    "url": "https://cookidoo.pl/recipes/recipe/pl/r935570"
+  },
+  {
+    "name": "Szybki gyros z sosem tzatziki",
+    "ingredients": [
+      { "name": "wieprzowina" },
+      { "name": "przyprawa kebab-gyros" },
+      { "name": "papryka ostra mielona" },
+      { "name": "olej" },
+      { "name": "cebula" },
+      { "name": "ogórek" },
+      { "name": "czosnek" },
+      { "name": "jogurt grecki", "substitute": ["śmietana 18%"] },
+      { "name": "pita" }
+    ],
+    "url": "https://cookidoo.pl/recipes/recipe/pl/r490897"
+  },
+  {
+    "name": "Gyros z kurczaka z sosem tzatziki",
+    "ingredients": [
+      { "name": "papryka słodka mielona" },
+      { "name": "kmin rzymski mielony" },
+      { "name": "czosnek granulowany" },
+      { "name": "natka pietruszki suszona" },
+      { "name": "cynamon mielony" },
+      { "name": "czosnek" },
+      { "name": "ogórek" },
+      { "name": "jogurt grecki" },
+      { "name": "koperek świeży" },
+      { "name": "filet z piersi kurczaka" },
+      { "name": "oliwa z oliwek" },
+      { "name": "cebula" }
+    ],
+    "url": "https://cookidoo.pl/recipes/recipe/pl/r903635"
+  },
+  {
+    "name": "Szybka potrawka z kurczaka i pora z kluskami",
+    "ingredients": [
+      { "name": "por" },
+      { "name": "olej" },
+      { "name": "filet z piersi kurczaka" },
+      { "name": "koncentrat pomidorowy" },
+      { "name": "papryka słodka mielona" },
+      { "name": "papryka ostra mielona" },
+      { "name": "bulion", "substitute": ["kostka bulionowa"] },
+      { "name": "śmietana 30%" }
+    ],
+    "url": "https://cookidoo.pl/recipes/recipe/pl/r776988",
+    "comment": "",
+    "tags": []
+  },
+  {
+    "name": "Gnocchi w sosie szpinakowym z kurczakiem",
+    "ingredients": [
+      { "name": "cebula" },
+      { "name": "czosnek" },
+      { "name": "szpinak" },
+      { "name": "filet z piersi kurczaka" },
+      { "name": "oregano suszone" },
+      { "name": "gnocchi" },
+      { "name": "oliwa z oliwek" },
+      { "name": "śmietana 30%" },
+      { "name": "mąka pszenna" },
+      { "name": "pomidor" }
+    ],
+    "url": "https://cookidoo.pl/recipes/recipe/pl/r747255"
+  },
+  {
+    "name": "Makaron z kurczakiem i szpinakiem w sosie curry",
+    "ingredients": [
+      { "name": "olej" },
+      { "name": "filet z piersi kurczaka" },
+      { "name": "kurkuma" },
+      { "name": "czosnek granulowany" },
+      { "name": "szpinak" },
+      { "name": "makaron pełnoziarnisty" },
+      { "name": "suszone pomidory" },
+      { "name": "śmietana 18%" },
+      { "name": "curry" }
+    ],
+    "url": "https://cookidoo.pl/recipes/recipe/pl/r820697",
+    "comment": "",
+    "tags": []
+  },
+  {
+    "name": "Domowe nuggetsy z dwoma sosami",
+    "ingredients": [
+      { "name": "płatki kukurydziane" },
+      { "name": "mąka pszenna" },
+      { "name": "mąka kukurydziana" },
+      { "name": "curry" },
+      { "name": "filet z piersi kurczaka" },
+      { "name": "oliwa z oliwek" },
+      { "name": "papryka słodka mielona" },
+      { "name": "papryka ostra mielona" },
+      { "name": "czosnek" },
+      { "name": "śmietana 18%" },
+      { "name": "majonez" },
+      { "name": "cukier" },
+      { "name": "sok z cytryny" },
+      { "name": "papryczka chili" },
+      { "name": "ketchup" },
+      { "name": "sos sojowy" },
+      { "name": "sos Tabasco" }
+    ],
+    "url": "https://cookidoo.pl/recipes/recipe/pl/r95738"
+  },
+  {
+    "name": "Burrito z mięsem mielonym i awokado",
+    "ingredients": [
+      { "name": "cebula" },
+      { "name": "oliwa z oliwek" },
+      { "name": "mięso mielone" },
+      { "name": "pomidor" },
+      { "name": "fasola czerwona" },
+      { "name": "koncentrat pomidorowy" },
+      { "name": "kmin rzymski mielony" },
+      { "name": "papryka ostra mielona" },
+      { "name": "sok z cytryny" },
+      { "name": "cheddar" },
+      { "name": "tortilla pszenna" },
+      { "name": "śmietana 18%" },
+      { "name": "śmietana 30%" },
+      { "name": "awokado" },
+      { "name": "kolendra świeża" }
+    ],
+    "url": "https://cookidoo.pl/recipes/recipe/pl/r901201"
+  },
+  {
+    "name": "Stripsy z kurczaka w zdrowej panierce i lekki sos czosnkowy",
+    "ingredients": [
+      { "name": "orzechy laskowe" },
+      { "name": "orzechy włoskie" },
+      { "name": "płatki kukurydziane" },
+      { "name": "papryka ostra mielona" },
+      { "name": "mąka z ciecierzycy", "substitute": ["mąka pszenna"] },
+      { "name": "mąka żytnia" },
+      { "name": "jogurt grecki" },
+      { "name": "jajko" },
+      { "name": "papryka słodka mielona" },
+      { "name": "czosnek granulowany" },
+      { "name": "filet z piersi kurczaka" },
+      { "name": "czosnek" },
+      { "name": "sok z cytryny" },
+      { "name": "musztarda" }
+    ],
+    "url": "https://cookidoo.pl/recipes/recipe/pl/r724329"
+  },
+  {
+    "name": "Gyros z sosem paprykowym i pieczonymi ziemniakami",
+    "ingredients": [
+      {
+        "name": "ziemniaki"
+      },
+      {
+        "name": "olej"
+      },
+      {
+        "name": "wieprzowina"
+      },
+      {
+        "name": "przyprawa kebab-gyros"
+      },
+      {
+        "name": "papryka"
+      },
+      {
+        "name": "cebula"
+      },
+      {
+        "name": "pieczarki",
+        "substitute": ["pieczarki marynowane"]
+      },
+      {
+        "name": "koncentrat pomidorowy"
+      },
+      {
+        "name": "śmietana 30%"
+      },
+      {
+        "name": "bulion",
+        "substitute": ["kostka bulionowa"]
+      },
+      {
+        "name": "skrobia ziemniaczana",
+        "substitute": ["skrobia kukurydziana"]
+      }
+    ],
+    "url": "https://cookidoo.pl/recipes/recipe/pl/r917144"
+  },
+  {
+    "name": "Pulpety w sosie marchewkowym z ziemniakami",
+    "ingredients": [
+      {
+        "name": "mięso mielone z indyka"
+      },
+      {
+        "name": "jajko"
+      },
+      {
+        "name": "bułka tarta"
+      },
+      {
+        "name": "majeranek"
+      }
+    ],
+    "url": "https://cookidoo.pl/recipes/recipe/pl/r924397"
+  },
+  {
+    "name": "Szybki gyros z sosem tzatziki",
+    "ingredients": [
+      { "name": "wieprzowina" },
+      { "name": "przyprawa kebab-gyros" },
+      { "name": "papryka ostra mielona" },
+      { "name": "olej" },
+      { "name": "cebula" },
+      { "name": "ogórek" },
+      { "name": "czosnek" },
+      { "name": "jogurt grecki" },
+      { "name": "śmietana 18%" },
+      { "name": "mieszane zioła suszone" },
+      { "name": "pita" }
+    ],
+    "url": "https://cookidoo.pl/recipes/recipe/pl/r490897"
+  },
+  {
+    "name": "Pieczone kieszonki z kurczaka z frytkami",
+    "ingredients": [
+      { "name": "cebula" },
+      { "name": "czosnek" },
+      { "name": "oliwa z oliwek" },
+      { "name": "szpinak" },
+      { "name": "ser feta" },
+      { "name": "filet z piersi kurczaka" },
+      { "name": "papryka słodka mielona" },
+      { "name": "pomidor" },
+      { "name": "oregano suszone" },
+      { "name": "ziemniaki" },
+      { "name": "zioła prowansalskie" }
+    ],
+    "url": "https://cookidoo.pl/recipes/recipe/pl/r915329"
+  },
+  {
+    "name": "Souvlaki z kurczaka i papryki z ryżem",
+    "ingredients": [
+      { "name": "imbir" },
+      { "name": "czosnek" },
+      { "name": "sos sojowy" },
+      { "name": "miód" },
+      { "name": "olej sezamowy" },
+      { "name": "sos barbecue", "substitute": ["sos hoisin"] },
+      { "name": "filet z piersi kurczaka" },
+      { "name": "papryka" },
+      { "name": "bulion", "substitute": ["kostka bulionowa"] },
+      { "name": "ryż biały długoziarnisty" },
+      { "name": "skrobia kukurydziana" }
+    ],
+    "url": "https://cookidoo.pl/recipes/recipe/pl/r151547"
+  },
+  {
+    "name": "Spaghetti carbonara na samych żółtkach",
+    "ingredients": [
+      {
+        "name": "jajko"
+      },
+      {
+        "name": "parmezan",
+        "substitute": ["pecorino romano"]
+      },
+      {
+        "name": "boczek wędzony",
+        "substitute": ["pancetta"]
+      },
+      {
+        "name": "oliwa z oliwek"
+      },
+      {
+        "name": "makaron spaghetti"
+      },
+      {
+        "name": "natka pietruszki",
+        "optional": true
+      }
+    ],
+    "url": "https://cookidoo.pl/recipes/recipe/pl/r55355"
+  }
+]

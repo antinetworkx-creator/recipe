@@ -1,0 +1,316 @@
+[
+  {
+    "name": "cytryna",
+    "inStock": true
+  },
+  {
+    "name": "kakao",
+    "inStock": true
+  },
+  {
+    "name": "grejpfrut",
+    "inStock": true
+  },
+  {
+    "name": "pomarańcza",
+    "inStock": true,
+    "expiryDate": "2026-03-25"
+  },
+  {
+    "name": "mleko",
+    "inStock": true,
+    "expiryDate": "2026-03-22"
+  },
+  {
+    "name": "cukier",
+    "inStock": true
+  },
+  {
+    "name": "filet z piersi kurczaka",
+    "inStock": true
+  },
+  {
+    "name": "olej",
+    "inStock": false
+  },
+  {
+    "name": "musztarda",
+    "inStock": true
+  },
+  {
+    "name": "papryka słodka mielona",
+    "inStock": true
+  },
+  {
+    "name": "papryka ostra mielona",
+    "inStock": true
+  },
+  {
+    "name": "marchewka",
+    "inStock": true
+  },
+  {
+    "name": "cebula",
+    "inStock": true
+  },
+  {
+    "name": "czosnek",
+    "inStock": true
+  },
+  {
+    "name": "pomidor",
+    "inStock": true
+  },
+  {
+    "name": "pomidor krojony z puszki",
+    "inStock": false
+  },
+  {
+    "name": "koncentrat pomidorowy",
+    "inStock": true
+  },
+  {
+    "name": "oregano suszone",
+    "inStock": true
+  },
+  {
+    "name": "gnocchi",
+    "inStock": false
+  },
+  {
+    "name": "wieprzowina",
+    "inStock": false
+  },
+  {
+    "name": "przyprawa kebab-gyros",
+    "inStock": false
+  },
+  {
+    "name": "ogórek",
+    "inStock": true
+  },
+  {
+    "name": "jogurt grecki",
+    "inStock": false
+  },
+  {
+    "name": "śmietana 18%",
+    "inStock": false
+  },
+  {
+    "name": "śmietana 30%",
+    "inStock": false
+  },
+  {
+    "name": "pita",
+    "inStock": false
+  },
+  {
+    "name": "kmin rzymski mielony",
+    "inStock": true
+  },
+  {
+    "name": "czosnek granulowany",
+    "inStock": false
+  },
+  {
+    "name": "natka pietruszki suszona",
+    "inStock": false
+  },
+  {
+    "name": "cynamon mielony",
+    "inStock": true
+  },
+  {
+    "name": "koperek świeży",
+    "inStock": false
+  },
+  {
+    "name": "oliwa z oliwek",
+    "inStock": true
+  },
+  {
+    "name": "por",
+    "inStock": false
+  },
+  {
+    "name": "bulion",
+    "inStock": false
+  },
+  {
+    "name": "kurkuma",
+    "inStock": true
+  },
+  {
+    "name": "szpinak",
+    "inStock": false
+  },
+  {
+    "name": "makaron pełnoziarnisty",
+    "inStock": false
+  },
+  {
+    "name": "suszone pomidory",
+    "inStock": false
+  },
+  {
+    "name": "curry",
+    "inStock": false
+  },
+  {
+    "name": "mięso mielone",
+    "inStock": false
+  },
+  {
+    "name": "fasola czerwona",
+    "inStock": false
+  },
+  {
+    "name": "cheddar",
+    "inStock": false
+  },
+  {
+    "name": "tortilla pszenna",
+    "inStock": true
+  },
+  {
+    "name": "awokado",
+    "inStock": true
+  },
+  {
+    "name": "kolendra świeża",
+    "inStock": false
+  },
+  {
+    "name": "orzechy laskowe",
+    "inStock": false
+  },
+  {
+    "name": "orzechy włoskie",
+    "inStock": true
+  },
+  {
+    "name": "płatki kukurydziane",
+    "inStock": false
+  },
+  {
+    "name": "mąka z ciecierzycy",
+    "inStock": false
+  },
+  {
+    "name": "mąka żytnia",
+    "inStock": true
+  },
+  {
+    "name": "ziemniaki",
+    "inStock": true
+  },
+  {
+    "name": "papryka",
+    "inStock": false
+  },
+  {
+    "name": "pieczarki",
+    "inStock": false
+  },
+  {
+    "name": "pieczarki marynowane",
+    "inStock": false
+  },
+  {
+    "name": "kostka bulionowa",
+    "inStock": true
+  },
+  {
+    "name": "skrobia ziemniaczana",
+    "inStock": false
+  },
+  {
+    "name": "skrobia kukurydziana",
+    "inStock": false
+  },
+  {
+    "name": "mięso mielone z indyka",
+    "inStock": false
+  },
+  {
+    "name": "jajko",
+    "inStock": true
+  },
+  {
+    "name": "bułka tarta",
+    "inStock": false
+  },
+  {
+    "name": "majeranek",
+    "inStock": false
+  },
+  {
+    "name": "mieszane zioła suszone",
+    "inStock": false
+  },
+  {
+    "name": "ser feta",
+    "inStock": false
+  },
+  {
+    "name": "zioła prowansalskie",
+    "inStock": false
+  },
+  {
+    "name": "imbir",
+    "inStock": false
+  },
+  {
+    "name": "sos sojowy",
+    "inStock": false
+  },
+  {
+    "name": "miód",
+    "inStock": true
+  },
+  {
+    "name": "olej sezamowy",
+    "inStock": false
+  },
+  {
+    "name": "sos barbecue",
+    "inStock": false
+  },
+  {
+    "name": "sos hoisin",
+    "inStock": false
+  },
+  {
+    "name": "ryż biały długoziarnisty",
+    "inStock": true
+  },
+  {
+    "name": "łosoś wędzony",
+    "inStock": true
+  },
+  {
+    "name": "pecorino romano",
+    "inStock": false
+  },
+  {
+    "name": "parmezan",
+    "inStock": true
+  },
+  {
+    "name": "boczek wędzony",
+    "inStock": true
+  },
+  {
+    "name": "pancetta",
+    "inStock": false
+  },
+  {
+    "name": "makaron spaghetti",
+    "inStock": true
+  },
+  {
+    "name": "natka pietruszki",
+    "inStock": false
+  }
+]

@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>My Recipes</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <h1>Recipes</h1>
+
+    <div id="filters">
+      <h3>Ingredients</h3>
+
+      <!-- Przycisk kopiujący dostępne składniki -->
+      <button onclick="copyAvailableIngredients()">
+        Skopiuj dostępne składniki
+      </button>
+
+      <div id="ingredient-checkboxes"></div>
+      <h3>Tags</h3>
+      <div id="tag-checkboxes"></div>
+    </div>
+
+    <div id="recipe-list"></div>
+
+    <script src="main.js"></script>
+  </body>
+</html>

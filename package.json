@@ -1,0 +1,12 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@libsql/client": "^0.15.15",
+    "express": "^5.2.1"
+  },
+  "scripts": {
+    "start": "node backend/server.js",
+    "dev": "node --env-file=.env backend/server.js",
+    "seed": "node --env-file=.env backend/scripts/migrate-seed.js"
+  }
+}
